@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/comidasReact/static/css/main.014a92b1.chunk.css",
+    "main.js": "/comidasReact/static/js/main.0a9d42c0.chunk.js",
+    "main.js.map": "/comidasReact/static/js/main.0a9d42c0.chunk.js.map",
+    "runtime-main.js": "/comidasReact/static/js/runtime-main.48d05a2e.js",
+    "runtime-main.js.map": "/comidasReact/static/js/runtime-main.48d05a2e.js.map",
+    "static/js/2.28068c10.chunk.js": "/comidasReact/static/js/2.28068c10.chunk.js",
+    "static/js/2.28068c10.chunk.js.map": "/comidasReact/static/js/2.28068c10.chunk.js.map",
+    "static/js/3.ebc055d1.chunk.js": "/comidasReact/static/js/3.ebc055d1.chunk.js",
+    "static/js/3.ebc055d1.chunk.js.map": "/comidasReact/static/js/3.ebc055d1.chunk.js.map",
+    "index.html": "/comidasReact/index.html",
+    "static/css/main.014a92b1.chunk.css.map": "/comidasReact/static/css/main.014a92b1.chunk.css.map",
+    "static/js/2.28068c10.chunk.js.LICENSE.txt": "/comidasReact/static/js/2.28068c10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48d05a2e.js",
+    "static/js/2.28068c10.chunk.js",
+    "static/css/main.014a92b1.chunk.css",
+    "static/js/main.0a9d42c0.chunk.js"
+  ]
+}
